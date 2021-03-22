@@ -1,0 +1,3 @@
+Uses Med_CLEF_classification datasets:
+MedDB5000
+imageclef2013
